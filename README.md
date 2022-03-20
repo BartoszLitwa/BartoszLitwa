@@ -16,9 +16,9 @@
 
 - 🤳 How to contact me: <a href=mailto:bartosz.maciej.litwa@gmail.com>**bartosz.maciej.litwa@gmail.com**</a>
 
-- 🔖 You can acquire my CV (if you wish so) by downloading it from this repo's cv folder or by clicking <a href="https://github.com/SirCypkowskyy/SirCypkowskyy/raw/main/cv/Cyprian_Gburek_Resume_18-03-2022-11-50-09.pdf">here.</a>
+- 🔖 You can acquire my CV (if you wish so) by downloading it from this repo's cv folder or by clicking <a href="">here</a>.
 
-- ⚡ What I enjoy doing: *I love playing video games, cycling, traveling(mainly USA)**as well as, obviously, coding***
+- ⚡ What I enjoy doing: *I love playing video games, cycling, traveling (mainly USA) **as well as, obviously, coding***
   
 ---
 
@@ -27,9 +27,12 @@
 <p align="center">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c-sharp" width="40" height="40"/> 
-  </a>
+  </a> 
   <a href="https://angular.io" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="c-sharp" width="40" height="40"/> 
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="c-sharp" width="40" height="40"/> 
   </a>
   <a href="https://flutter.dev" target="_blank>
     <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
@@ -37,6 +40,9 @@
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>
+  <a href="https://www.cplusplus.com/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="python" width="40" height="40"/> 
+  </a>                                                                                                                                     
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
@@ -46,6 +52,7 @@
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
+                                                                                                                                             
 </p>
                                                                                                                                              
 <h3 align="center">Tools:</h3>
@@ -56,10 +63,15 @@
   </a>
    <a href="https://code.visualstudio.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vsc" width="40" height="40"/> 
-  </a>                                                                                                  
+  </a>                                                                                                                                                     <a href="https://docker.com/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="vs" width="40" height="40"/> 
+  </a>                            
   <a href="https://www.jetbrains.com/idea/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-plain.svg" alt="intellij" width="40" height="40"/> 
   </a>  
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="vs" width="40" height="40"/> 
+  </a>                                                                                                                                                 
 </p>                                                                                                                                           
 <div align="center">
 <h3>GitHub Stats:</h3>
@@ -83,4 +95,4 @@
 
 Bartosz Litwa (https://github.com/BartoszLitwa)
 
-`Last Edited on: 18/03/2022`
+`Last Edited on: 20/03/2022`
