@@ -31,19 +31,26 @@ its own identity and solves a focused problem; together they form one AI-native 
 
 ## The Now product family
 
-| Product | Focus | Stage |
-| --- | --- | --- |
-| [RentifyNow](https://rentifynow.com) | Rental and property-management workflows | Active build |
-| **PostifyNow** | Governed multi-channel content planning, approval, and delivery | Active build |
-| [HouseifyNow](https://houseifynow.com) | Homeowner operations, maintenance, and financial oversight | Building |
-| [GoalifyNow](https://goalifynow.com) | Goals, habits, fitness, and personal progress | Building |
-| [DeployifyNow](https://deployifynow.com) | Deployment and infrastructure automation | Building |
-| [LeadifyNow](https://leadifynow.com) | Inbound capture, qualification, booking, and audited handoffs | Discovery + active construction |
-| **InsightifyNow** | Governed metrics, lineage, evidence, and decision support | Discovery + active construction |
-| **SupportifyNow** | Product-aware customer operations with human-controlled actions | Discovery + active construction |
+<p align="center">
+  <img src="./company-ecosystem.png" alt="DoifyNow company and Now product family map" width="100%" />
+</p>
 
-RentifyNow and PostifyNow lead the current portfolio. Products without public links are intentionally
-kept in development or discovery until their destinations are ready.
+**Leading the portfolio**
+
+- [RentifyNow](https://rentifynow.com) — rental and property-management workflows · **Active build**
+- **PostifyNow** — governed multi-channel content planning, approval, and delivery · **Active build**
+
+**Extending the company system**
+
+- [HouseifyNow](https://houseifynow.com) — homeowner operations, maintenance, and financial oversight · **Building**
+- [GoalifyNow](https://goalifynow.com) — goals, habits, fitness, and personal progress · **Building**
+- [DeployifyNow](https://deployifynow.com) — deployment and infrastructure automation · **Building**
+- [LeadifyNow](https://leadifynow.com) — inbound capture, qualification, booking, and audited handoffs · **Discovery + active construction**
+- **InsightifyNow** — governed metrics, lineage, evidence, and decision support · **Discovery + active construction**
+- **SupportifyNow** — product-aware customer operations with human-controlled actions · **Discovery + active construction**
+
+Products without public links are intentionally kept in development or discovery until their
+destinations are ready.
 
 ## What I build
 
