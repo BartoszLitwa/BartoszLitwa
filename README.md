@@ -1,137 +1,78 @@
-<h href="https://www.litwa.dev"> <h1 align="center" style="cursor: pointer">Hi, My name is  <img align="center" height="180" style="margin-bottom: -30px" src="./logo.png"></h1></h>
+<div align="center">
+  <a href="https://litwa.dev">
+    <img src="./logo.png" alt="Bartosz Litwa" width="260" />
+  </a>
 
-<h3 align="center">A passionate and goal-driven <a href="https://www.pja.edu.pl/en">Computer Science</a> student with 4+ months of commercial experience programming web services, desktop and mobile apps.</h3>
+  <h1>Building an AI-native company</h1>
 
----
+  <p><strong>Founder-engineer · Warsaw, Poland</strong></p>
 
-### 🧑🏻‍🏫&nbsp;Few words about Me
+  <p>
+    I am building <a href="https://doifynow.com">DoifyNow</a> — a connected family of focused products
+    with one shared company direction.
+  </p>
 
-<img align="right" width=250px height=250px alt="My typical day" src="https://media3.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=790b761157vrk7gdew8yfsk2i9nrr4pm1jtlxzvrqz605ex0&rid=giphy.gif&ct=s"/>
+  <p>
+    <a href="https://litwa.dev">Personal website</a> ·
+    <a href="https://www.linkedin.com/in/bartoszlitwa/">LinkedIn</a> ·
+    <a href="mailto:bartosz.litwa@proton.me">Email</a>
+  </p>
+</div>
 
-- My <a href="https://litwa.dev"> Personal Portfolio</a> website: <a href="https://www.litwa.dev"> https://www.litwa.dev</a>
+<hr />
 
-- 📖 I study *Computer Science* at the *<a href="https://www.pja.edu.pl/en">Polish-Japanese Academy of Information Technology</a>*
+## A new era of building
 
-- 🧑‍💻 In my spare time I'm trying to improve my coding (C#, React, Flutter, Angular , HTML5, CSS, JS) and software development skills 
+The work is moving from isolated projects to a connected product system: clear product boundaries,
+shared infrastructure, and a deliberate path from idea to build to operation.
 
-- 🪂 I’m keen to collaborate on **back-end & front-end projects**
+DoifyNow is the parent company and shared platform for the **Now product family**. Each product keeps
+its own identity and solves a focused problem; together they form one AI-native company in motion.
 
-- 🤳 How to contact me: <a href=mailto:bartosz.litwa@proton.me>**bartosz.litwa@proton.me**</a>
-
-<!-- - 🔖 You can acquire my CV (if you wish so) by downloading it from this repo's cv folder or by clicking <a href="">here</a>. -->
-
-- ⚡ What I enjoy doing: *I love playing video games, cycling, traveling (mainly USA) **as well as, obviously, coding***
-
-- ⚡ Fun fact I started programming when I was 15
-  
----
-
-<h3 align="center">Languages:</h3>
+## The Now product family
 
 <p align="center">
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c-sharp" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://angular.io" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="c-sharp" width="40" height="40"/> 
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a>
-  <a href="https://flutter.dev" target="_blank>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-  <a href="https://www.cplusplus.com/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> 
-  </a>                                
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://bootstrap.com/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
-  </a>                                                                    
+  <img src="./company-ecosystem.png" alt="DoifyNow company and Now product family map" width="100%" />
 </p>
-                                         
-<h3 align="center">Tools:</h3>
 
-<p align="center">
-  <a href="https://visualstudio.microsoft.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vs" width="40" height="40"/> 
-  </a>
-   <a href="https://code.visualstudio.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
-  </a> 
-  <a href="https://docker.com/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
-  </a>                            
-  <a href="https://www.jetbrains.com/idea/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-plain.svg" alt="intellij" width="40" height="40"/> 
-  </a>  
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.microsoft.com/sql-server/sql-server-downloads?rtc=1" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqlserver" width="40" height="40"/> 
-  </a>
-  <a href="https://www.redis.com" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain-wordmark.svg" alt="redis" width="40" height="40"/> 
-  </a>                                                     
-</p>  
-<p align="center">
-   <a href="https://windows.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/> 
-  </a> 
-  <a href="https://linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a>
-  <a href="https://apple.com/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="apple" width="40" height="40"/> 
-  </a>                            
-</p>         
+**Leading the portfolio**
 
-<h3 align="center">Cloud:</h3>
+- [RentifyNow](https://rentifynow.com) — rental and property-management workflows · **Active build**
+- **PostifyNow** — governed multi-channel content planning, approval, and delivery · **Active build**
 
-<p align="center">
-  <a href="https://aws.amazon.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
-  </a>
-   <a href="https://azure.microsoft.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="Azure" width="40" height="40"/> 
-  </a>                                                  
-</p> 
+**Extending the company system**
+
+- [HouseifyNow](https://houseifynow.com) — homeowner operations, maintenance, and financial oversight · **Building**
+- [GoalifyNow](https://goalifynow.com) — goals, habits, fitness, and personal progress · **Building**
+- [DeployifyNow](https://deployifynow.com) — deployment and infrastructure automation · **Building**
+- [LeadifyNow](https://leadifynow.com) — inbound capture, qualification, booking, and audited handoffs · **Discovery + active construction**
+- **InsightifyNow** — governed metrics, lineage, evidence, and decision support · **Discovery + active construction**
+- **SupportifyNow** — product-aware customer operations with human-controlled actions · **Discovery + active construction**
+
+Products without public links are intentionally kept in development or discovery until their
+destinations are ready.
+
+## What I build
+
+- AI-native company and product systems
+- Full-stack web products and SaaS foundations
+- Cloud architecture, deployment, and infrastructure workflows
+- Evidence-led delivery with .NET, C#, React, Angular, TypeScript, Azure, Azure DevOps, and Docker
+
+## Find me elsewhere
 
 <div align="center">
-<h3>GitHub Stats:</h3>
-
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BartoszLitwa&theme=tokyonight&show_icons=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BartoszLitwa&layout=compact&theme=tokyonight&l&langs_count=10" alt="my github stats" />
-  
+  <a href="https://litwa.dev">
+    <img src="https://img.shields.io/badge/Website-litwa.dev-6d28d9?style=for-the-badge" alt="Personal website" />
+  </a>
+  <a href="https://doifynow.com">
+    <img src="https://img.shields.io/badge/Company-DoifyNow-047857?style=for-the-badge" alt="DoifyNow" />
+  </a>
+  <a href="https://www.linkedin.com/in/bartoszlitwa/">
+    <img src="https://img.shields.io/badge/LinkedIn-Bartosz%20Litwa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
 
----
-
-<h3 align="center">Contact me:</h3>
-<div align="center">
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bartoszlitwa/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bartosz.litwa@proton.me)
-  
-</div>
-
-------
-<div align="right"> <img src="https://komarev.com/ghpvc/?username=BartoszLitwa&label=Profile%20views&&color=brightgreen" alt="karmek-k" /> </div>
-
-<h href="https://github.com/BartoszLitwa"> Bartosz Litwa </h>
-
-`Last Edited on: 18/10/2022`
+<p align="center">
+  <em>Focused products. Shared direction. Building what comes next.</em>
+</p>
